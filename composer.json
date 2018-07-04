@@ -16,9 +16,15 @@
             "homepage": "http://www.phraseanet.com/"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ipanpapan/BinaryDriver"
+        }
+    ],
     "require": {
         "php"                   : ">=5.3.3",
-        "ipanpapan/binary-driver" : "~1.5"
+        "ipanpapan/binary-driver" : "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit"       : "~3.7",
