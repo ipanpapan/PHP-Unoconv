@@ -1,5 +1,5 @@
 {
-    "name": "php-unoconv/php-unoconv",
+    "name": "ipanpapan/php-unoconv",
     "type": "library",
     "description": "Unoconv PHP, an Object Oriented library for easy file conversion with LibreOffice's unoconv",
     "keywords": ["unoconv"],
